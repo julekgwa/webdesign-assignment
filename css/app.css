@@ -1,0 +1,25 @@
+ .test {
+   background-color: 'green';
+   font-size: 50px;
+ }
+
+ .add-to-cart {
+   float: right;
+   margin-right: 5px;
+ }
+
+
+span.price {
+  color: red;
+}
+
+.carousel {
+  margin: 0 auto;
+}
+
+.carousel-inner img {
+  height: auto;
+  width: 100%;
+}
+
+/* body { padding-top: 70px; } */
